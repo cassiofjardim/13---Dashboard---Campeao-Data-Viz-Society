@@ -1,0 +1,12 @@
+name: Shiny4Data_Dashboard
+title: Shiny4Data_Dashboard
+username: wgt6j1-data40
+account: wgt6j1-data40
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10726552
+bundleId: 8011808
+url: https://wgt6j1-data40.shinyapps.io/Shiny4Data_Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
